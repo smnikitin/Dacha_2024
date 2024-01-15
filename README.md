@@ -25,13 +25,14 @@ This repository focuses on how to find a new county house to rent in the Boston 
 - We don’t have pets 
 
 ## Websites:
-https://www.zillow.com/
-https://hotpads.com/
-https://www.trulia.com/
-https://www.apartments.com/
-https://boston.craigslist.org/search/apa#search=1~map~0~0~42.5925~-71.7377~42.1578~-70.4839
-https://www.facebook.com/groups/1787987864812621
-https://www.facebook.com/groups/HarvardMITHousing
-https://www.facebook.com/groups/673389662794979
-https://www.facebook.com/groups/harvardhousing
-https://www.facebook.com/groups/gsdhousing
+
+- https://www.zillow.com/
+- https://hotpads.com/
+- https://www.trulia.com/
+- https://www.apartments.com/
+- https://boston.craigslist.org/search/apa#search=1~map~0~0~42.5925~-71.7377~42.1578~-70.4839
+- https://www.facebook.com/groups/1787987864812621
+- https://www.facebook.com/groups/HarvardMITHousing
+- https://www.facebook.com/groups/673389662794979
+- https://www.facebook.com/groups/harvardhousing
+- https://www.facebook.com/groups/gsdhousing
