@@ -26,7 +26,7 @@ This repository focuses on how to find a new county house to rent in the Boston 
 
 ## map
 
-![map]https://github.com/smnikitin/Dacha_2024/blob/main/map.JPG
+![map](https://github.com/smnikitin/Dacha_2024/blob/main/map.JPG)
 
 ## Websites:
 
