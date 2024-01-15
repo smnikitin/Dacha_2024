@@ -22,7 +22,11 @@ This repository focuses on how to find a new county house to rent in the Boston 
 
 ### Other factors:
 - We are two persons to move in
-- We don’t have pets 
+- We don’t have pets
+
+## map
+
+![sub_map_bos]https://github.com/smnikitin/Dacha_2024/blob/main/map.JPG
 
 ## Websites:
 
